@@ -1,8 +1,8 @@
-# (TODO: your game's title)
+# BOID Watching Simulation
 
-Author: (TODO: your name)
+Author: Pavan Paravasthu
 
-Design: (TODO: In two sentences or fewer, describe what is new and interesting about your game.)
+Design: This intent of the design is to make a zen bird watching experience.
 
 Screen Shot:
 
@@ -10,9 +10,9 @@ Screen Shot:
 
 How To Play:
 
-(TODO: describe the controls and (if needed) goals/strategy.)
+WASD keys to move and mouse movement turns the view.
 
-Sources: (TODO: list a source URL for any assets you did not create yourself. Make sure you have a license for the asset.)
+Sources: 8-track.blend (Created in Blender)
 
 This game was built with [NEST](NEST.md).
 
