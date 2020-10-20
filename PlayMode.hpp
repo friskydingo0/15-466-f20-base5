@@ -2,6 +2,7 @@
 
 #include "Scene.hpp"
 #include "WalkMesh.hpp"
+#include "MovingAI.hpp"
 
 #include <glm/glm.hpp>
 
@@ -36,4 +37,7 @@ struct PlayMode : Mode {
 		//camera is at player's head and will be pitched by mouse up/down motion:
 		Scene::Camera *camera = nullptr;
 	} player;
+
+	//AI info:
+	std::vector<BoidAI> boids;
 };
